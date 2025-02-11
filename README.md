@@ -1,2 +1,3 @@
 # index
-this is only for practice code
+this is not only for practice code
+
